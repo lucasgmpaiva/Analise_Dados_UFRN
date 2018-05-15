@@ -9,6 +9,14 @@ Os dados podem gerar problemas os quais podem possibilitar avanços na universid
 ## Authorship
 Developed by Henrique David (henriquemed101@gmail.com), Lucas Gabriel Matias Paiva(lucasgmpaiva1@gmail.com) e Robert Bleda de Saint George (saintgeorge@uol.com.br).
 
+## Bibliotecas
+- Numpy
+- Pandas
+- Matplotlib
+
+## Youtube Video
+https://www.youtube.com/watch?v=SVpEgSqBSI4
+
 # Organização do Trabalho
 
 ### IMD0033 Probabilidade
